@@ -15,11 +15,11 @@ A simple Java program that performs a customizable count between two numbers, al
 
 ## 🧠 Example
 
-Enter start: 2
-Enter end: 10
-Enter increment: 2
-
-2 4 6 8 10
+Enter start: 2 <br>
+Enter end: 10 <br>
+Enter increment: 2 <br>
+<br>
+2 4 6 8 10<br>
 Counting finished!
 
 <hr>
