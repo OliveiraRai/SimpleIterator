@@ -32,11 +32,11 @@ Counting finished!
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+1. Clone the repository: <br>
 git clone https://github.com/yourusername/your-repo-name.git
 2. Open the project folder in your IDE or terminal.  
-3. Compile and run:
-javac Main.java
+3. Compile and run: <br>
+javac Main.java <br>
 java Main
 
 <hr>
